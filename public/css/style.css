@@ -1,0 +1,142 @@
+body{
+
+	background-image:url(img/fondo-01.png);
+	width:100%; 
+	height:100px;
+
+} 
+
+header {
+
+    background-color: #006366;
+     position: absolute;
+	left: 0px;
+	width: 100%;
+	height: 35px;
+	top: 100px;
+}
+
+footer{
+	background-color: #006366; 
+	width: 100%;
+	height: 30px;
+	position: absolute;
+	bottom: 0;
+}
+
+.menuheader{
+	
+	color: white;
+	font-size: 15px;
+	margin-left: 20px;
+	
+}
+
+#menuheader{
+	margin-top: 6px;
+	
+}
+
+.menufooter{
+	
+	color: white;
+	font-size: 15px;
+	
+}
+
+#menufooter{
+
+	margin-top: 8px;
+}
+
+#texto1{
+font-family: "Times New Roman", Times, serif;
+font-size: 26.6px;
+color:#006366;
+text-align : justify; 
+
+}
+
+#textoFormulario{
+font-family: "Times New Roman", Times, serif;
+font-size: 16px;
+color:#006366;
+
+
+}
+#tituloFormulario{
+font-family: "Times New Roman", Times, serif;
+font-size: 35px;
+color:#006366;
+}
+
+
+.borderadius{
+	border-radius:12px;
+	background: #837977;
+
+}
+
+#titulo{
+font-family: "Times New Roman", Times, serif;
+font-size: 17px;
+color:#006366;
+
+
+}
+
+
+
+a:visited {
+	color: white; 
+}
+
+a:hover { 
+	color: white; 
+	text-decoration:none;
+}
+
+
+@font-face {
+font-family: Champagne-simple;
+src: url(../public/fonts/Champagne & Limousines.ttf);
+}
+
+
+#radios{
+	color: white;
+	background-color: #D99700; 
+	width: 45%;
+	height: 25px;
+	
+}
+
+#radio{
+	color: white;
+	background-color: #D99700; 
+	width: 45%;
+	height: 25px;
+	
+}
+
+.formulario > div {
+	padding: 20px 0;
+	border-bottom: 1px solid #ccc; 
+}
+
+
+.formulario input[type="radio"]{
+	display: none;
+}
+
+.formulario .radio label{
+	background: rgba(0,0,0,.1);
+}
+
+  
+
+
+
+
+
+

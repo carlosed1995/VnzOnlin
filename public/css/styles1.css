@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#logo{
+
+	width:75%;
+	height:100px;
+	float: left;
+	
+
+  /*margin: 0px 0 0 -150px; */
+	
+}
+
+#social{
+	width:25%;
+	height:160px;
+	float: right;
+	margin-top: -40px;
+	margin-left: -100px;
+
+
+  /*margin: 0px 0 0 -150px; */
+	
+}
+
